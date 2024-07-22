@@ -1,14 +1,14 @@
-<h1 align="center">Welcome to Personal-portfolio 👋</h1>
+<h1 align="center">Welcome to ammarsaa.me 👋</h1>
 
 ### Showcase your web development skills and projects with a sleek portfolio built using Next.js and Tailwind CSS.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/programmer-rahul/personal-portfolio/blob/main/public/logo/logo.png"></img>
+    <img src="https://github.com/ammarsaa/ammarsaa.me/blob/main/public/logo/logo.png"></img>
   </kbd>
 </p>
 
-## View live preview **[here](https://programmer-rahul.vercel.app)**.
+## View live preview **[here](https://ammarsaa.vercel.app)**.
 
 ## Sections 📚
 
@@ -23,11 +23,11 @@
 1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
 2. **Clone the repository:**
    ```bash
-    $ git clone https://github.com/<your-username>/personal-portfolio.git
+    $ git clone https://github.com/ammarsaa/ammarsaa.me.git
    ```
-3. **Clone the repository:**
+3. **Jump in the directory:**
    ```bash
-    $ cd personal-portfolio
+    $ cd ammarsaa.me
    ```
 4. **Install dependencies:**
    Install packages for the root directory.
@@ -46,7 +46,7 @@
 
 ## 🕹️ Usage
 
-### Customize data in the `lib/constants.ts` [folder](https://github.com/programmer-rahul/personal-portfolio/blob/main/lib/constants.ts).
+### Customize data in the `lib/constants.ts` [folder](https://github.com/ammarsaa/ammarsaa.me/blob/main/lib/constants.ts).
 
 Eg:
 
